@@ -1,0 +1,17 @@
+@media screen and (max-width:840px) {
+    .comments-container{
+        width:550px;
+    }
+}
+@media screen and (max-width:500px) {
+    .comments-container{
+        width:300px;
+        margin-left:10px;
+    }
+}
+@media screen and (min-width:200px) and (max-width:344px) {
+    .comments-container{
+        width:250px;
+        margin-left:5px;
+    }
+}
